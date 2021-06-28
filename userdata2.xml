@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<users>
+	<user>
+	<name>Ram</name>
+	<user-name/>
+	<mobile>9876543210</mobile>
+	<email>a@b.c</email>
+	<father-name>Mr.</father-name>
+	<f-contact>9087654321</f-contact>
+	<address>
+			Raj
+	</address>
+</user>
+
+<user><name>kri</name><user-name>sha</user-name><mobile>8</mobile><email>k@r.s</email><father-name>Sh</father-name><f-contact>88</f-contact><address>bkn</address></user><user><name>kirtan</name><user-name>kt</user-name><mobile>11</mobile><email>k@r.s</email><father-name>bhajan</father-name><f-contact>111</f-contact><address>ops</address></user></users>
